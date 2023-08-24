@@ -8,7 +8,7 @@ Currently open to learning new things and exploring new opportunities!<br/>
 
 
 Some of the Tools and Technologies I work with:<br/>
-<em><strong>HTML CSS JS Python Git GitHub Linux Flutter Firebase C Google Dart Google Canvas Java MS Excel Figma Adobe Premiere Pro Markdown Notion Windows Ubuntu VS Code</strong></em>
+<strong>HTML CSS JS Python Git GitHub Linux Flutter Firebase C Google Dart Google Canvas Java MS Excel Figma Adobe Windows Ubuntu VS Code</strong>
 
 
 
