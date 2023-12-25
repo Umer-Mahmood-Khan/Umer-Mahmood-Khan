@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umer</h1>
+<h1 align="center">Hi, I'm Umer</h1>
 
  A dedicated student pursuing a Master's degree in Applied Computing at the University of Windsor in Ontario, Canada.
 
